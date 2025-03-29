@@ -1,7 +1,59 @@
 header {
-    border: 1rem solid purple; 
+    display: flex;
+    justify-content: right;
+    border: 2rem solid purple; 
 }
 
 #imagemoney    {
-    height: 2rem ;
+    height: 10rem ;
+}
+
+header #pagemoney {
+    height: 8.5rem;
+    width: 8.5rem;
+    border-radius: 50%;
+}
+
+
+
+nav {
+    border: 1rem solid black; 
+}
+
+.mango {
+    border: 0.1rem solid purple;
+    height: 1rem; 
+}
+.pera {
+    border: 0.1rem solid red; 
+}
+.yuca {
+    border: 0.1rem solid black; 
+}
+.altura {
+    height: 3rem;
+}
+
+
+
+aside {
+    border: 1rem solid red; 
+}
+.guanabana {
+    border: 0.1rem solid purple; 
+}
+.banano {
+    border: 0.1rem solid red; 
+}
+.papa {
+    border: 0.1rem solid black; 
+}
+
+
+
+main {
+    border: 1rem solid purple; 
+}
+footer {
+    border: 1rem solid gray; 
 }
